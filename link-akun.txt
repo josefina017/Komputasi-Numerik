@@ -6,7 +6,7 @@ Link Github Repository:
 https://github.com/josefina017/Komputasi-Numerik
 
 Link Google Colab:
-Belum dibuat - akan diupdate
+https://colab.research.google.com/drive/1jJ2NBVwFdR3il3k3OPXeRUn621gMKQSC?usp=sharing
 
 Link LinkedIn:
-Belum dibuat - akan diupdate
+https://www.linkedin.com/in/josefina-baqita-39209844a/
