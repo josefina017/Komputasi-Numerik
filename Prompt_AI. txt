@@ -1,0 +1,64 @@
+DAFTAR PROMPT AI - TUGAS KOMPUTASI NUMERIK
+Nama : Josefina Baqita De Assuncao
+NIM : 202511420096
+Mata Kuliah : Komputasi Numerik
+Topik : Penyelesaian Sistem Persamaan Linear 3 Variabel
+Platform AI yang digunakan : Meta AI
+
+PROMPT 1 - UNTUK NOMOR 5 (ALGORITMA)
+
+Tolong buatkan saya Algoritma Penyelesaian Sistem Persamaan Linear 3 variabel.
+Saya Josefina Baqita De Assuncao, NIM 202511420096.
+Saya mau algoritmanya yang langkah-langkahnya jelas dan mudah saya jelaskan lagi
+saat presentasi video nanti. Gunakan contoh persamaan yang hasilnya bulat
+supaya mudah dicek, misalnya:
+x + y + z = 6
+2x - y + z = 3
+x + 2y - z = 2
+Jangan dibuat terlalu mirip dengan contoh di internet, buatkan dengan
+bahasa saya sendiri yang sederhana.
+
+PROMPT 2 - UNTUK NOMOR 6 (KODE PYTHON DI COLAB)
+
+Dari algoritma tadi, tolong buatkan kode Python-nya untuk di Google Colab.
+Saya mau kodenya dibagi menjadi 5 cell supaya bisa di-running satu per satu:
+Cell 1 untuk judul dan data persamaan,
+Cell 2 untuk fungsi eliminasi,
+Cell 3 untuk proses substitusi balik,
+Cell 4 untuk menampilkan hasil x, y, z,
+Cell 5 untuk cek kebenaran jawaban.
+Tolong pakai nama variabel yang mudah saya ingat dan tambahkan nama
+dan NIM saya di bagian atas kode sebagai identitas.
+
+PROMPT 3 - UNTUK NOMOR 7 (PENJELASAN TIAP BARIS)
+
+Tolong edit kode Python tadi di Github dengan menambahkan keterangan
+detail penjelasan tiap baris kode atau tiap cell.
+Saya mau setiap baris ada tanda # yang menjelaskan fungsinya dengan
+bahasa Indonesia yang sederhana, supaya kalau dosen tanya saya bisa
+jawab. Jangan pakai bahasa pemrograman yang terlalu sulit, pakai
+bahasa sehari-hari saya.
+
+PROMPT 4 - UNTUK PERBAIKAN KODE
+
+Kode saya di Colab tadi error / hasilnya tidak sesuai, tolong bantu
+perbaiki. Saya mau hasilnya x = 1.0, y = 2.0, z = 3.0 dan di akhir
+muncul tulisan BENAR! Jawaban sudah tepat.
+Tolong jelaskan juga kenapa kode sebelumnya salah, supaya saya paham
+dan bisa jelaskan di video.
+
+PROMPT 5 - UNTUK PERSIAPAN VIDEO NOMOR 10
+
+Tolong bantu saya buat naskah untuk video penjelasan Nomor 5-8
+dengan durasi maksimal 5 menit.
+Saya mau di 15 detik pertama saya tampilkan wajah saya sambil
+perkenalan diri, sisanya hanya tampilan layar kode di Colab
+dengan suara penjelasan saya.
+Buatkan naskahnya yang singkat, tidak kaku, dan sesuai dengan
+kode yang sudah saya buat.
+
+CATATAN :
+Semua prompt di atas saya ketik sendiri dan saya diskusikan
+bersama AI sampai saya benar-benar paham, bukan hanya copy-paste.
+Kode dan algoritma sudah saya cek ulang dan saya running sendiri
+di Google Colab.
