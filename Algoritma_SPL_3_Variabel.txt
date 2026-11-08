@@ -1,0 +1,62 @@
+ALGORITMA PENYELESAIAN SISTEM PERSAMAAN LINEAR 3 VARIABEL
+Nama: Baqita Assuncao
+NIM: 2511500014
+Mata Kuliah: Komputasi Numerik
+Metode: Eliminasi Gauss + Substitusi Balik
+
+1. TUJUAN
+Mencari nilai x, y, dan z yang membuat ketiga persamaan di bawah ini
+semuanya benar pada saat yang sama.
+
+Contoh yang saya pakai:
+Persamaan 1: 2x + 1y + 1z = 7
+Persamaan 2: 1x + 3y + 2z = 13
+Persamaan 3: 1x + 0y + 2z = 7
+
+2. IDE DASARNYA
+Saya tidak menebak x, y, z secara langsung.
+Saya ubah sistemnya pelan-pelan menjadi bentuk tangga.
+Persamaan paling bawah dibuat hanya tinggal variabel z saja.
+Kalau z sudah ketemu, baru saya naik ke atas untuk mencari y, lalu x.
+
+3. LANGKAH-LANGKAH ALGORITMA
+
+Langkah 1 - Masukkan Data
+Masukkan 9 koefisien dan 3 nilai hasil.
+Susun menjadi matriks augmented 3 baris dan 4 kolom.
+
+Langkah 2 - Cek Baris Pertama
+Lihat angka di baris 1 kolom 1.
+Kalau nilainya 0, tukar baris 1 dengan baris bawah yang kolom pertamanya bukan 0.
+
+Langkah 3 - Eliminasi Kolom 1
+Baris 2 = Baris 2 - (Baris 2 Kolom 1 / Baris 1 Kolom 1) * Baris 1
+Baris 3 = Baris 3 - (Baris 3 Kolom 1 / Baris 1 Kolom 1) * Baris 1
+
+Langkah 4 - Eliminasi Kolom 2
+Baris 3 = Baris 3 - (Baris 3 Kolom 2 / Baris 2 Kolom 2) * Baris 2
+
+Langkah 5 - Cek Bentuk Segitiga Atas
+Semua angka di bawah diagonal sudah 0.
+
+Langkah 6 - Substitusi Balik
+z = (hasil baris 3) / (koefisien z di baris 3)
+y = (hasil baris 2 - koefisien z * z) / koefisien y
+x = (hasil baris 1 - koefisien y * y - koefisien z * z) / koefisien x
+
+Langkah 7 - Cek Ulang Jawaban
+Masukkan x, y, z ke 3 persamaan awal.
+
+Langkah 8 - Tampilkan Hasil
+Tampilkan nilai x, y, z dan tulisan Selesai.
+
+4. HASIL CONTOH SAYA
+x = 1, y = 2, z = 3
+Bukti:
+Persamaan 1: 2(1) + 2 + 3 = 7, benar
+Persamaan 2: 1 + 3(2) + 2(3) = 13, benar
+Persamaan 3: 1 + 0 + 2(3) = 7, benar
+
+5. CATATAN SAYA
+Saya pilih Eliminasi Gauss karena langkahnya urut dari atas ke bawah,
+lalu dari bawah ke atas. Jadi tidak perlu menghafal rumus determinan.
