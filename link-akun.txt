@@ -2,11 +2,11 @@ Nama Lengkap: Josefina Baqita De Assuncao
 NIM: 202511420096
 Mata Kuliah: Komputasi Numerik
 
-Link Github Repository:
-https://github.com/josefina017/Komputasi-Numerik
+Link Github Repository
+https://github.com/josefina017/Komputasi-Numerik/tree/main
 
 Link Google Colab:
 https://colab.research.google.com/drive/1jJ2NBVwFdR3il3k3OPXeRUn621gMKQSC?usp=sharing
 
 Link LinkedIn:
-https://www.linkedin.com/in/josefina-baqita-39209844a/
+https://www.linkedin.com/in/baqita-assuncao-9a504944a/
