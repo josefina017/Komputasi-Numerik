@@ -1,5 +1,5 @@
 ALGORITMA PENYELESAIAN SISTEM PERSAMAAN LINEAR 3 VARIABEL
-Nama: Baqita Assuncao
+Nama: josefina Baqita De Assuncao
 NIM: 2511500014
 Mata Kuliah: Komputasi Numerik
 Metode: Eliminasi Gauss + Substitusi Balik
