@@ -1,4 +1,4 @@
 # Komputasi-Numerik
 
 Link Video Penjelasan:
-https://drive.google.com/file/d/1W8O75Ru9kTV5ioFNS8qjFoBQW61bd0eK/view?usp=drivesdk
+https://drive.google.com/file/d/1WI81gbVmadtMTjI1_HT8Owr-865B7ogV/view?usp=drivesdk
